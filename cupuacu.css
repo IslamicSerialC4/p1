@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(213 221 224);
+}
+
+.name {
+    text-align: center;
+    margin-top: 30px;
+}
+.cardapio {
+    text-align: center;
+}
+.img {
+    text-align: center;
+}
+.nome {
+    color: #00227b;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+.descricao, .preco {
+    color: black;
+}
+
+.item {
+    height: 150px;
+    margin: 0 auto;
+  border: 1px solid black;
+}
+.voltar {
+    color: #00227b;
+   
+}
